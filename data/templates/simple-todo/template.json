@@ -1,0 +1,27 @@
+{
+  "name": "simple-todo",
+  "author": "frostime",
+  "url": "https://github.com/frostime/sy-template-simple-todo",
+  "version": "0.1.0",
+  "minAppVersion": "2.9.0",
+  "displayName": {
+    "default": "Simple Todo",
+    "zh_CN": "极简 TODO"
+  },
+  "description": {
+    "default": "A very simple TODO management template",
+    "zh_CN": "一个非常简单的 TODO 管理模板"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": ""
+  },
+  "keywords": [
+    "todo", "代办"
+  ]
+}

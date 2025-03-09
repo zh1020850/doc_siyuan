@@ -1,4 +1,32 @@
 {
+  "local-dialogposition": {
+    "dialog-setting": {
+      "height": 767,
+      "left": 80,
+      "top": 42,
+      "width": 1280
+    }
+  },
+  "local-fileposition": {
+    "20200812220555-lj3enxa": {
+      "endId": "20240508001403-j8ceveg",
+      "focusEnd": 0,
+      "focusId": "20241125224159-vcaj2bv",
+      "focusStart": 0,
+      "rootId": "20200812220555-lj3enxa",
+      "scrollTop": 0,
+      "startId": "20241125224159-8zf3bos"
+    },
+    "20250310005336-jd14uld": {
+      "endId": "20250310011132-7jskkgs",
+      "focusEnd": 0,
+      "focusId": "20250310011132-7jskkgs",
+      "focusStart": 0,
+      "rootId": "20250310005336-jd14uld",
+      "scrollTop": 0,
+      "startId": "20250310011105-j2xnc8j"
+    }
+  },
   "local-filespaths": [
     {
       "notebookId": "20250310005332-6w8vuo1",
@@ -6,5 +34,8 @@
         "/20250310005336-jd14uld.sy"
       ]
     }
+  ],
+  "local-fontstyles": [
+    "backgroundColor​var(--b3-font-background9)"
   ]
 }

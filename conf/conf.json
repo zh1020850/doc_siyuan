@@ -1,23 +1,35 @@
 {
   "logLevel": "debug",
   "appearance": {
-    "mode": 1,
-    "modeOS": true,
+    "mode": 0,
+    "modeOS": false,
     "darkThemes": [
       {
         "name": "midnight",
         "label": "midnight（默认主题）"
+      },
+      {
+        "name": "Zhihu",
+        "label": "知乎（Zhihu）"
       }
     ],
     "lightThemes": [
       {
         "name": "daylight",
         "label": "daylight（默认主题）"
+      },
+      {
+        "name": "QYL-theme",
+        "label": "QYL（QYL-theme）"
+      },
+      {
+        "name": "Zhihu",
+        "label": "知乎（Zhihu）"
       }
     ],
     "themeDark": "midnight",
-    "themeLight": "daylight",
-    "themeVer": "1.0.8",
+    "themeLight": "QYL-theme",
+    "themeVer": "2.5.7",
     "icons": [
       "ant",
       "material"
@@ -27,7 +39,7 @@
     "codeBlockThemeLight": "github",
     "codeBlockThemeDark": "base16/dracula",
     "lang": "zh_CN",
-    "themeJS": false,
+    "themeJS": true,
     "closeButtonBehavior": 0,
     "hideStatusBar": false
   },
@@ -250,35 +262,8 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1741539187778",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20200812220555-lj3enxa",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20210808180117-czj9bvb",
-                        "rootId": "20200812220555-lj3enxa"
-                      },
-                      "docIcon": "1f389",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "请从这里开始"
-                    },
-                    {
-                      "active": true,
-                      "activeTime": "1741539224659",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250310005336-jd14uld",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250310005332-6w8vuo1",
-                        "rootId": "20250310005336-jd14uld"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "未命名"
+                      "children": {},
+                      "instance": "Tab"
                     }
                   ],
                   "height": "",
@@ -502,7 +487,7 @@
     "autoLaunch2": 0,
     "lockScreenMode": 0,
     "disabledFeatures": [],
-    "microsoftDefenderExcluded": false
+    "microsoftDefenderExcluded": true
   },
   "keymap": {
     "editor": {
@@ -1259,15 +1244,15 @@
     }
   },
   "bazaar": {
-    "trust": false,
+    "trust": true,
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 0,
+    "treeCount": 1,
     "cTreeCount": 100,
-    "blockCount": 0,
+    "blockCount": 8,
     "cBlockCount": 5000,
-    "dataSize": 36864,
+    "dataSize": 211647,
     "cDataSize": 104857600,
     "assetsSize": 0,
     "cAssetsSize": 104857600

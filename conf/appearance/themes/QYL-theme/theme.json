@@ -1,0 +1,27 @@
+{
+  "name": "QYL-theme",
+  "author": "QYL",
+  "url": "https://github.com/QYLexpired/QYL-theme",
+  "version": "2.5.7",
+  "displayName": {
+    "default": "QYL",
+    "zh_CN": "QYL",
+    "en_US": "QYL"
+  },
+  "description": {
+    "default": "QYL主题",
+    "zh_CN": "QYL主题",
+    "en_US": "QYL-theme"
+  },
+  "readme": {
+    "default": "README_zh_CN.md",
+    "zh_CN": "README_zh_CN.md",
+    "en_US": "README.md"
+  },
+  "modes": [
+    "light"
+  ],
+  "keywords": [
+    "QYL"
+  ]
+}
