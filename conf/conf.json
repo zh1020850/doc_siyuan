@@ -1,7 +1,7 @@
 {
   "logLevel": "debug",
   "appearance": {
-    "mode": 0,
+    "mode": 1,
     "modeOS": false,
     "darkThemes": [
       {
@@ -29,7 +29,7 @@
     ],
     "themeDark": "midnight",
     "themeLight": "QYL-theme",
-    "themeVer": "2.5.7",
+    "themeVer": "1.0.8",
     "icons": [
       "ant",
       "material"
@@ -39,7 +39,7 @@
     "codeBlockThemeLight": "github",
     "codeBlockThemeDark": "base16/dracula",
     "lang": "zh_CN",
-    "themeJS": true,
+    "themeJS": false,
     "closeButtonBehavior": 0,
     "hideStatusBar": false
   },
@@ -262,80 +262,95 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1741625837435",
+                      "activeTime": "1741626764853",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20250311005317-4gakvj9",
+                        "blockId": "20250311011244-bfv9b98",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20250311005259-cv4i9s6",
-                        "rootId": "20250311005317-4gakvj9"
+                        "notebookId": "20250311010848-b99ndob",
+                        "rootId": "20250311011244-bfv9b98"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "职业面试"
+                      "title": "krpano"
                     },
                     {
-                      "activeTime": "1741626073095",
+                      "activeTime": "1741626781026",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20250311010112-yjwshtp",
+                        "blockId": "20250311011300-valck46",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20250311005827-b0311u1",
-                        "rootId": "20250311010112-yjwshtp"
+                        "rootId": "20250311011300-valck46"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "前端零散经验"
+                      "title": "前端框架"
                     },
                     {
-                      "activeTime": "1741626080518",
+                      "activeTime": "1741626786178",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20250311010120-e293q4i",
+                        "blockId": "20250311011305-itisp68",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20250311005827-b0311u1",
-                        "rootId": "20250311010120-e293q4i"
+                        "rootId": "20250311011305-itisp68"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "项目实操经验"
+                      "title": "React"
                     },
                     {
-                      "activeTime": "1741626096212",
+                      "activeTime": "1741626791606",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20250311010135-w48crmr",
+                        "blockId": "20250311011311-qgetrag",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20250311005827-b0311u1",
-                        "rootId": "20250311010135-w48crmr"
+                        "rootId": "20250311011311-qgetrag"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "前段大师课"
+                      "title": "Umi"
+                    },
+                    {
+                      "activeTime": "1741626809479",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20250311011329-6rj9e5r",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20250311010848-b99ndob",
+                        "rootId": "20250311011329-6rj9e5r"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Three.js"
                     },
                     {
                       "active": true,
-                      "activeTime": "1741626107961",
+                      "activeTime": "1741627114285",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20250311010147-cilccoh",
+                        "blockId": "20250311011345-8i4iey7",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20250311005827-b0311u1",
-                        "rootId": "20250311010147-cilccoh"
+                        "notebookId": "20250311010848-b99ndob",
+                        "rootId": "20250311011345-8i4iey7"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "未命名"
+                      "title": "环境搭建\u0026项目配置"
                     }
                   ],
                   "height": "",
@@ -521,12 +536,14 @@
     "127.0.0.1",
     "192.168.1.7",
     "169.254.143.139",
+    "169.254.217.174",
     "169.254.88.231",
     "169.254.251.235",
     "[::1]",
     "[2408:824e:d20:f00:a73e:ba84:4d72:161d]",
     "[2408:824e:d20:f00:2123:c4ad:4a8d:226b]",
     "[fe80::c814:ef80:2a33:b901]",
+    "[fe80::b4cd:5484:1784:1990]",
     "[fe80::1b34:22f1:175d:4400]",
     "[fe80::af08:8e7b:18a4:293f]",
     "[fe80::d6f4:686e:aed6:6ed1]"
@@ -1318,11 +1335,11 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 1,
+    "treeCount": 18,
     "cTreeCount": 100,
-    "blockCount": 8,
+    "blockCount": 71,
     "cBlockCount": 5000,
-    "dataSize": 211647,
+    "dataSize": 4413664,
     "cDataSize": 104857600,
     "assetsSize": 0,
     "cAssetsSize": 104857600
