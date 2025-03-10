@@ -1,5 +1,11 @@
 {
   "local-dialogposition": {
+    "dialog-notebookconf": {
+      "height": 482,
+      "left": 144,
+      "top": 185,
+      "width": 1152
+    },
     "dialog-setting": {
       "height": 767,
       "left": 80,
@@ -29,9 +35,9 @@
   },
   "local-filespaths": [
     {
-      "notebookId": "20250310005332-6w8vuo1",
+      "notebookId": "20250311005827-b0311u1",
       "openPaths": [
-        "/20250310005336-jd14uld.sy"
+        "/20250311010147-cilccoh.sy"
       ]
     }
   ],
